@@ -22,12 +22,13 @@ The Leaflet folder holds the necessary files (CSS, HTML and JS) to render the in
 - Rounding function for coordinates in marker popup: https://stackoverflow.com/questions/11832914/how-to-round-to-at-most-2-decimal-places-if-necessary
 
 ## Background
+![alt-text](https://github.com/andrewjmack/leaflet-challenge/blob/main/Starter_Code/Images/2-BasicMap.png "Earthquake Data Visualization with Leaflet")
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, you have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
 ## Requirements
-These requirements apply only to "Part 1: Create the Earthquake Visualization" as "Part 2" is optional with no extra points earning
+These requirements apply only to "Part 1: Create the Earthquake Visualization" as "Part 2" is optional with no extra points earned.
 
 ### Map
 - TileLayer loads without error
@@ -40,3 +41,5 @@ These requirements apply only to "Part 1: Create the Earthquake Visualization" a
 - Data points colors change with depth level
 - Each point has a tooltip with the Magnitude, the location and depth
 - All data points load in the correct locations
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
